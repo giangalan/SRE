@@ -5,7 +5,8 @@
 *.tmp
 
 # Word temporary
-~$*.doc*
+*.doc
+*.docx
 
 # Word Auto Backup File
 Backup of *.doc*
